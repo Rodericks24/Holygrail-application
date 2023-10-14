@@ -1,2 +1,2 @@
-# react-holygrail
-React Holy Grail - State of each column shared with the rest
+# Holygrail Application
+To develop a Holygrail Application using Redis and Docker.
